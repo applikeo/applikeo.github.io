@@ -84,8 +84,9 @@
 	}
 
 	h3 {
-		font-size: 1.10em;
+		font-size: 1em;
 		letter-spacing: 0.025em;
+        text-align: center;
 	}
 
 	sub {
@@ -117,7 +118,7 @@
 	}
 
 	header.major {
-		padding-bottom: 2em;
+		padding-bottom: 1em;
 	}
 
 	header.special {
@@ -536,7 +537,7 @@
 /* Wrapper */
 
 	.wrapper {
-		margin-bottom: 5em;
+		margin-bottom: 3em;
 		padding: 5em;
 	}
 
@@ -582,7 +583,7 @@
 		.wrapper.style5 {
             background: white;
 			color: inherit;
-			padding: 4em;
+			padding: 3em;
 		    text-align:left;
 		}
 
@@ -837,7 +838,7 @@
 		background-position: top left, top right, bottom left, bottom right;
 		background-repeat: no-repeat;
 		background-size: 25em;
-		padding: 4em  0;
+		padding: 4em 0 0;
 	}
 
 		#main > :last-child {
@@ -882,7 +883,7 @@
 
 	#footer {
 		color: #7c8081;
-		padding: 4em 5em 10em 5em;
+		padding: 3em 5em 2em 5em;
 		text-align: center;
 	}
 
